@@ -1,6 +1,6 @@
 # 💸 BloxFusion | Token Converter
 
-BloxFusion is a simple and sleek desktop app that helps you convert tokens into USD based on a set rate. Designed for quick calculations and enhanced with sound effects, Discord integration, and a slick animated logo, it's perfect for users who need fast and beautiful conversions.
+Simple and sleek desktop app that helps you convert tokens into USD based on a set rate. Designed for quick calculations and enhanced with sound effects, Discord integration, and a slick animated logo, it's perfect for users who need fast and beautiful conversions.
 
 ## 🧠 Features
 
